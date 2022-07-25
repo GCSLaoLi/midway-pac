@@ -2,7 +2,7 @@
 
 https://github.com/gfwlist/gfwlist
 
-https://github.com/petronny/gfwlist2pac
+
 
 
 ## Commands
@@ -10,6 +10,7 @@ https://github.com/petronny/gfwlist2pac
 - `npm run dev`: Starts the development server
 - `npm run build`: Builds the application for production
 - `npm run start`: Runs the application in production mode
+- `npm run updatepac`: Update pac file frome GFWLists
 
 ## File Structure
 
@@ -19,3 +20,7 @@ https://github.com/petronny/gfwlist2pac
 - `public`: static files
 - `midway.config.ts`: project config
 - `index.html`: entry file
+
+## 参考资料
+
+https://github.com/zhu-xiaoming/genpacjs
