@@ -1,12 +1,9 @@
-## hooks-vue-starter
+## 数据来源
 
-Use this template:
+https://github.com/gfwlist/gfwlist
 
-```bash
-npx degit https://github.com/midwayjs/hooks/examples/vue ./hooks-app
-```
+https://github.com/petronny/gfwlist2pac
 
-Use `npm install` to install the dependencies
 
 ## Commands
 
